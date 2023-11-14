@@ -1,4 +1,4 @@
-## exercise 2
+## exercise 
 
 import sys
 print("Python Version:")
