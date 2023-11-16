@@ -1,4 +1,4 @@
-Initialize an empty list to store pizza toppings
+# Initialize an empty list to store pizza toppings
 pizza_toppings = []
 
 # Prompt the user to enter pizza toppings
